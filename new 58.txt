@@ -1,0 +1,206 @@
+{
+	"messages": [
+		{
+			"timestamp": "2023-03-20T20:13:13.504+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "First!",
+			"author": {
+				"name": "Konan🦝",
+				"discriminator": "8183",
+				"nickname": "I just do roles.",
+				"color": null,
+				"isBot": true,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/930281485301317633/d6e2df71e9017cfe6a5e874adf87157e.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:14:09.717+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "First",
+			"author": {
+				"name": "tav is taking a break",
+				"discriminator": "7777",
+				"nickname": "party",
+				"color": "#E91E62",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/guilds/1066323170866495609/users/132448731479015424/avatars/a_1b765f59b4114a9904ccd67599b6d87b.gif?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:14:19.402+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "!",
+			"author": {
+				"name": "MolagBal",
+				"discriminator": "4549",
+				"nickname": "HornyUser",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/154340772638883840/a_13e42166bf8c17b03717f75d5798cf20.gif?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:14:38.465+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "damn 😦",
+			"author": {
+				"name": "OshieteKudasai",
+				"discriminator": "8833",
+				"nickname": "OshieteKudasai    🗑",
+				"color": "#F1C40F",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/192021651188219904/a4d7df58696831b4b5ef451f361ba132.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:15:24.225+00:00",
+			"timestampEdited": "2023-03-21T18:36:13.58+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "__**Attention Researchers!**__\nAs of recently.... many people were given 'access' to GPT4 - with the negative feedback from v8, we have decided to launch a campaign where we will be training a soft prompt/LoRa on GPT4 Logs. This has already been greenlighted by mods, so if you have access to GPT4 and have viable chat logs (>50kb) I would be very appreciative if you could dump some logs. SFW and NSFW logs are accepted, with a preference to RP scenarios.\n\nOur goal is to collect ~10 MB for a soft prompt, and 20 MB would be awesome for a LoRa. \nAs of now, 1MB of data has been accumulated from about 4 hours of farming, and that's only with a few people ~ your logs would be greatly appreciated!\n\nDump Link: https://forms.gle/2DvSNGzXQ2jHMmvB9\n**The logs will not be read for the above dumper.**\n\nDump Link (If you don't mind your logs being read: https://forms.gle/Kn7NKgzUsXmkm4ff6\n**The logs will be read for the above dumper.**\n\n**CHATS MUST HAVE DETAILED INPUTS AND RESPONSES. USER INPUT MUST BE AT LEAST ONE PARAGRAPH, GRAMMATICALLY CORRECT.**",
+			"author": {
+				"name": "Otis",
+				"discriminator": "9664",
+				"nickname": "Otis (Wizard)",
+				"color": "#FFEA52",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/477989077384298519/08508910a0f8401ce19a70775dda035e.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Google Forms: Sign-in",
+					"url": "https://forms.gle/2DvSNGzXQ2jHMmvB9",
+					"timestamp": null,
+					"description": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
+					"images": [],
+					"fields": []
+				},
+				{
+					"title": "Google Forms: Sign-in",
+					"url": "https://forms.gle/Kn7NKgzUsXmkm4ff6",
+					"timestamp": null,
+					"description": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
+					"images": [],
+					"fields": []
+				}
+			],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:15:27.661+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Pin^",
+			"author": {
+				"name": "Otis",
+				"discriminator": "9664",
+				"nickname": "Otis (Wizard)",
+				"color": "#FFEA52",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/477989077384298519/08508910a0f8401ce19a70775dda035e.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:15:33.295+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "We are all of course but students.",
+			"author": {
+				"name": "Täch",
+				"discriminator": "5350",
+				"nickname": "Täch",
+				"color": "#5B76B3",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/498334592768671745/df767b47b0345393c584956bcb7e936a.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"timestamp": "2023-03-20T20:15:44.788+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Pinned a message.",
+			"author": {
+				"name": "MolagBal",
+				"discriminator": "4549",
+				"nickname": "HornyUser",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/154340772638883840/a_13e42166bf8c17b03717f75d5798cf20.gif?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": [],
+			"reference": {
+				"messageId": "1087469463168876655",
+				"channelId": "1087468914189008996",
+				"guildId": null
+			}
+		},
+		{
+			"timestamp": "2023-03-20T20:16:44.341+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "So, we mostly need NSFW logs before they fix, right?",
+			"author": {
+				"name": "OshieteKudasai",
+				"discriminator": "8833",
+				"nickname": "OshieteKudasai    🗑",
+				"color": "#F1C40F",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/192021651188219904/a4d7df58696831b4b5ef451f361ba132.png?size=512"
+			},
+			"attachments": [],
+			"embeds": [],
+			"stickers": [],
+			"reactions": [],
+			"mentions": []
+		}
+	]
+}
